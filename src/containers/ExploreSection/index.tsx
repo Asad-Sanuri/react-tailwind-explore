@@ -80,10 +80,10 @@ const Item = styled.div`
   img {
     ${tw`                        
       max-w-full
-      object-contain         
+      object-contain     
                        
     `}
-    max-height: 600px        
+    max-height: 480px        
   }
 `;
 
