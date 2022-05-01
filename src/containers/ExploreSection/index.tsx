@@ -83,7 +83,7 @@ const Item = styled.div`
       object-contain         
                        
     `}
-    max-height: 700px        
+    max-height: 600px        
   }
 `;
 
